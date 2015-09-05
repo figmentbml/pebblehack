@@ -1,17 +1,11 @@
-/**
- * Welcome to Pebble.js!
- *
- * This is where you write your app.
- */
-
 var UI = require('ui');
 var Vector2 = require('vector2');
 
 var main = new UI.Card({
-  title: 'Pebble.js',
+  title: 'GeoMonster',
   icon: 'images/menu_icon.png',
-  subtitle: 'Hello World!',
-  body: 'Press any button.'
+  subtitle: 'Gotta catch \'em all!',
+  body: 'Exit.'
 });
 
 main.show();
@@ -20,12 +14,11 @@ main.on('click', 'up', function(e) {
   var menu = new UI.Menu({
     sections: [{
       items: [{
-        title: 'Pebble.js',
+        title: 'GeoMonster',
         icon: 'images/menu_icon.png',
-        subtitle: 'Can do Menus'
       }, {
-        title: 'Second Item',
-        subtitle: 'Subtitle Text'
+        title: 'Exit',
+        subtitle: 'don\'t leave us!'
       }]
     }]
   });
@@ -37,18 +30,25 @@ main.on('click', 'up', function(e) {
 });
 
 main.on('click', 'select', function(e) {
-  var wind = new UI.Window({
+  var menu = new UI.Menu({
     fullscreen: true,
+    sections: [{
+      title: 'Acquired Monsters',
+      items: [{
+        title: 'Monster name',
+        subtitle: 'location',
+        body: 'date added',
+        icon: 'images/menu_icon.png'
+      }, {
+        title: 'Monster name',
+        subtitle: 'location',
+        body: 'date added',
+        icon: 'images/menu_icon.png'
+      }]
+    }]
   });
-  var textfield = new UI.Text({
-    position: new Vector2(0, 65),
-    size: new Vector2(144, 30),
-    font: 'gothic-24-bold',
-    text: 'Text Anywhere!',
-    textAlign: 'center'
-  });
-  wind.add(textfield);
-  wind.show();
+  menu.add(sections);
+  menu.show();
 });
 
 main.on('click', 'down', function(e) {
