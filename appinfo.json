@@ -30,6 +30,11 @@
                 "type": "font"
             },
             {
+                "file": "images/cross_white.png",
+                "name": "IMAGES_CROSS_WHITE_PNG",
+                "type": "png"
+            },
+            {
                 "file": "images/water_black.png",
                 "name": "IMAGES_WATER_BLACK_PNG",
                 "type": "png"
