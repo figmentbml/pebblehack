@@ -30,6 +30,11 @@
                 "type": "font"
             },
             {
+                "file": "images/water_black.png",
+                "name": "IMAGES_WATER_BLACK_PNG",
+                "type": "png"
+            },
+            {
                 "file": "images/tick_white.png",
                 "name": "IMAGES_TICK_WHITE_PNG",
                 "type": "png"
