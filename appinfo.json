@@ -30,6 +30,16 @@
                 "type": "font"
             },
             {
+                "file": "images/play_white.png",
+                "name": "IMAGES_PLAY_WHITE_PNG",
+                "type": "png"
+            },
+            {
+                "file": "images/list_white.png",
+                "name": "IMAGES_LIST_WHITE_PNG",
+                "type": "png"
+            },
+            {
                 "file": "images/cross_white.png",
                 "name": "IMAGES_CROSS_WHITE_PNG",
                 "type": "png"
