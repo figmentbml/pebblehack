@@ -30,6 +30,21 @@
                 "type": "font"
             },
             {
+                "file": "images/tick_white.png",
+                "name": "IMAGES_TICK_WHITE_PNG",
+                "type": "png"
+            },
+            {
+                "file": "images/tick_black.png",
+                "name": "IMAGES_TICK_BLACK_PNG",
+                "type": "png"
+            },
+            {
+                "file": "images/tick.png",
+                "name": "IMAGES_TICK_PNG",
+                "type": "png"
+            },
+            {
                 "file": "images/cross.png",
                 "name": "IMAGES_CROSS_PNG",
                 "type": "png"
