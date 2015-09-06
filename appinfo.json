@@ -30,6 +30,26 @@
                 "type": "font"
             },
             {
+                "file": "images/cross_icon.png",
+                "name": "IMAGES_CROSS_ICON_PNG",
+                "type": "png"
+            },
+            {
+                "file": "images/tic_icon.png",
+                "name": "IMAGES_TIC_ICON_PNG",
+                "type": "png"
+            },
+            {
+                "file": "images/play_icon.png",
+                "name": "IMAGES_PLAY_ICON_PNG",
+                "type": "png"
+            },
+            {
+                "file": "images/list_icon.png",
+                "name": "IMAGES_LIST_ICON_PNG",
+                "type": "png"
+            },
+            {
                 "file": "images/cross_white.png",
                 "name": "IMAGES_CROSS_WHITE_PNG",
                 "type": "png"
