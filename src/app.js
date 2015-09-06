@@ -6,37 +6,37 @@ var companions = [
     id: 1,
     name: 'Urban',
     icon: 'images/menu_icon.png',
-    location: 'Foxtrot',
-    date: '',
+    location: 'location',
+    date: 'date acquired',
     type: 'urban',
-    description: 'Foxtrots’ quickstep makes them hard to find. Known for their clever ways of communicating to each other, different human militaries have used their techniques to share top secret information.  In time of need, whisper Echo Foxtrot and your new friend will appear.'   
+    description: 'lots of text'   
   },
   {
     id: 2,
     name: 'Trees',
     icon: 'images/menu_icon.png',
-    location: 'Everhorn',
-    date: '',
+    location: 'location',
+    date: 'date acquired',
     type: 'trees',
-    description: 'You might have seen Everhorn before. One of the oldest of the wooded creatures, his horns sometimes get mistaken for large tree branches. Call on your companion when hiking far distances when a fighting creature appears.'   
+    description: 'lots of text'   
   },
   {
     id: 3,
     name: 'Water',
     icon: 'images/menu_icon.png',
-    location: 'Riverscale',
-    date: '',
+    location: 'location',
+    date: 'date acquired',
     type: 'water',
-    description: 'Able to fly and swim, Riverscale likes to stay away from land. However, if you are battling on raining days, call on Riverscale to help you out. Riverscale also enjoys playing in the snow.'   
+    description: 'lots of text'   
   },
   {
     id: 4,
     name: 'Other',
     icon: 'images/menu_icon.png',
-    location: 'Spark gem',
-    date: '',
+    location: 'location',
+    date: 'date acquired',
     type: 'other',
-    description: 'Use Spark gems to improve your health and help you explore more “dangerous” areas.'   
+    description: 'lots of text'   
   }
 ];
 
