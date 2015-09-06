@@ -4,7 +4,7 @@
         ""
     ],
     "companyName": "beth.jaswa@gmail.com",
-    "longName": "geoMonsters",
+    "longName": "Exploreians",
     "projectType": "pebblejs",
     "resources": {
         "media": [
@@ -30,13 +30,8 @@
                 "type": "font"
             },
             {
-                "file": "images/urban_black.png",
-                "name": "IMAGES_URBAN_BLACK_PNG",
-                "type": "png"
-            },
-            {
-                "file": "images/trees_black.png",
-                "name": "IMAGES_TREES_BLACK_PNG",
+                "file": "images/tic_icon.png",
+                "name": "IMAGES_TIC_ICON_PNG",
                 "type": "png"
             },
             {
@@ -45,53 +40,13 @@
                 "type": "png"
             },
             {
-                "file": "images/test_com.png",
-                "name": "IMAGES_TEST_COM_PNG",
-                "type": "png"
-            },
-            {
-                "file": "images/cross_icon.png",
-                "name": "IMAGES_CROSS_ICON_PNG",
-                "type": "png"
-            },
-            {
-                "file": "images/tic_icon.png",
-                "name": "IMAGES_TIC_ICON_PNG",
+                "file": "images/list_white.png",
+                "name": "IMAGES_LIST_WHITE_PNG",
                 "type": "png"
             },
             {
                 "file": "images/play_icon.png",
                 "name": "IMAGES_PLAY_ICON_PNG",
-                "type": "png"
-            },
-            {
-                "file": "images/list_icon.png",
-                "name": "IMAGES_LIST_ICON_PNG",
-                "type": "png"
-            },
-            {
-                "file": "images/cross_white.png",
-                "name": "IMAGES_CROSS_WHITE_PNG",
-                "type": "png"
-            },
-            {
-                "file": "images/tick_white.png",
-                "name": "IMAGES_TICK_WHITE_PNG",
-                "type": "png"
-            },
-            {
-                "file": "images/cross.png",
-                "name": "IMAGES_CROSS_PNG",
-                "type": "png"
-            },
-            {
-                "file": "images/play_white.png",
-                "name": "IMAGES_PLAY_WHITE_PNG",
-                "type": "png"
-            },
-            {
-                "file": "images/tick.png",
-                "name": "IMAGES_TICK_PNG",
                 "type": "png"
             },
             {
@@ -105,14 +60,59 @@
                 "type": "png"
             },
             {
-                "file": "images/list_white.png",
-                "name": "IMAGES_LIST_WHITE_PNG",
+                "file": "images/cross_icon.png",
+                "name": "IMAGES_CROSS_ICON_PNG",
+                "type": "png"
+            },
+            {
+                "file": "images/tick.png",
+                "name": "IMAGES_TICK_PNG",
+                "type": "png"
+            },
+            {
+                "file": "images/cross.png",
+                "name": "IMAGES_CROSS_PNG",
+                "type": "png"
+            },
+            {
+                "file": "images/trees_black.png",
+                "name": "IMAGES_TREES_BLACK_PNG",
+                "type": "png"
+            },
+            {
+                "file": "images/play_white.png",
+                "name": "IMAGES_PLAY_WHITE_PNG",
+                "type": "png"
+            },
+            {
+                "file": "images/tick_white.png",
+                "name": "IMAGES_TICK_WHITE_PNG",
+                "type": "png"
+            },
+            {
+                "file": "images/list_icon.png",
+                "name": "IMAGES_LIST_ICON_PNG",
+                "type": "png"
+            },
+            {
+                "file": "images/test_com.png",
+                "name": "IMAGES_TEST_COM_PNG",
+                "type": "png"
+            },
+            {
+                "file": "images/cross_white.png",
+                "name": "IMAGES_CROSS_WHITE_PNG",
+                "type": "png"
+            },
+            {
+                "file": "images/urban_black.png",
+                "name": "IMAGES_URBAN_BLACK_PNG",
                 "type": "png"
             }
         ]
     },
     "sdkVersion": "3",
-    "shortName": "geoMonsters",
+    "shortName": "Exploreians",
     "uuid": "75ab4970-58e0-4370-874f-17c257b7583c",
     "versionCode": 1,
     "versionLabel": "1.0",
