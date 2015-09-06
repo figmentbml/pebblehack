@@ -30,6 +30,11 @@
                 "type": "font"
             },
             {
+                "file": "images/test_com.png",
+                "name": "IMAGES_TEST_COM_PNG",
+                "type": "png"
+            },
+            {
                 "file": "images/cross_icon.png",
                 "name": "IMAGES_CROSS_ICON_PNG",
                 "type": "png"
