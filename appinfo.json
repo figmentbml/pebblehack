@@ -30,8 +30,13 @@
                 "type": "font"
             },
             {
-                "file": "images/play_white.png",
-                "name": "IMAGES_PLAY_WHITE_PNG",
+                "file": "images/tick.png",
+                "name": "IMAGES_TICK_PNG",
+                "type": "png"
+            },
+            {
+                "file": "images/cross.png",
+                "name": "IMAGES_CROSS_PNG",
                 "type": "png"
             },
             {
@@ -40,18 +45,8 @@
                 "type": "png"
             },
             {
-                "file": "images/cross_white.png",
-                "name": "IMAGES_CROSS_WHITE_PNG",
-                "type": "png"
-            },
-            {
                 "file": "images/water_black.png",
                 "name": "IMAGES_WATER_BLACK_PNG",
-                "type": "png"
-            },
-            {
-                "file": "images/tick_white.png",
-                "name": "IMAGES_TICK_WHITE_PNG",
                 "type": "png"
             },
             {
@@ -60,13 +55,18 @@
                 "type": "png"
             },
             {
-                "file": "images/tick.png",
-                "name": "IMAGES_TICK_PNG",
+                "file": "images/cross_white.png",
+                "name": "IMAGES_CROSS_WHITE_PNG",
                 "type": "png"
             },
             {
-                "file": "images/cross.png",
-                "name": "IMAGES_CROSS_PNG",
+                "file": "images/play_white.png",
+                "name": "IMAGES_PLAY_WHITE_PNG",
+                "type": "png"
+            },
+            {
+                "file": "images/tick_white.png",
+                "name": "IMAGES_TICK_WHITE_PNG",
                 "type": "png"
             }
         ]
