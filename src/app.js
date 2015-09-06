@@ -41,10 +41,10 @@ var companions = [
 ];
 
 var types = [
-  {type: 'Urban', icon: ''}, 
-  {type: 'Trees', icon: ''},
+  {type: 'Urban', icon: 'images/urban_black.png'}, 
+  {type: 'Trees', icon: 'images/trees_black.png'},
   {type: 'Water', icon: 'images/water_black.png'},
-  {type: 'Other', icon: ''}
+  {type: 'Other', icon: 'images/other_black.png'}
 ];
 
 var myCompanions = [];

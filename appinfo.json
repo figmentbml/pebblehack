@@ -30,6 +30,21 @@
                 "type": "font"
             },
             {
+                "file": "images/urban_black.png",
+                "name": "IMAGES_URBAN_BLACK_PNG",
+                "type": "png"
+            },
+            {
+                "file": "images/trees_black.png",
+                "name": "IMAGES_TREES_BLACK_PNG",
+                "type": "png"
+            },
+            {
+                "file": "images/other_black.png",
+                "name": "IMAGES_OTHER_BLACK_PNG",
+                "type": "png"
+            },
+            {
                 "file": "images/test_com.png",
                 "name": "IMAGES_TEST_COM_PNG",
                 "type": "png"
