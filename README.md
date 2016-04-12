@@ -1,5 +1,5 @@
 # pebblehack
 
+Project from Pebble Hackathon called Exploreians
 
-Info on scrolling images
-https://github.com/pebble-examples/pebblekit-js-weather/tree/master/resources/img
+[Checked it out on Hackster.io](https://www.hackster.io/team-transplants/exploreians)
